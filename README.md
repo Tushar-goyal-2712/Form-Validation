@@ -1,13 +1,13 @@
 
-#  Cineflix Website Clone
+#  Form Validation
 
-Clone of cineflix website
+Form validation website
 
 
 
 ## 💻 Demo
 
-[Cineflix Clone Website Link](https://cineflix-movie-website-by-tushar.netlify.app/)
+[Website Link](https://form-validation-by-tushar.netlify.app/)
 
 
 ## 📍 Run Locally
@@ -15,7 +15,7 @@ Clone of cineflix website
 Clone the project
 
 ```bash
-  git clone https://github.com/Tushar-goyal-2712/Cineflix-Website-clone.git
+  git clone https://github.com/Tushar-goyal-2712/Form-Validation.git
 ```
 
 Install node_module dependencies
